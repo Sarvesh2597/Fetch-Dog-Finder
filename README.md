@@ -6,7 +6,7 @@ A web application developed for users to browse dogs and find their perfect matc
 
 ## Website URL
 
-Dog Finder web hosted URL: (https://stately-duckanoo-82a9e1.netlify.app/)
+Dog Finder web hosted URL: (https://sarvesh2597.github.io/Fetch-Dog-Finder/)
 
 ## General Requirements for This Assignment
 
@@ -77,15 +77,15 @@ To run this project locally, follow these steps:
     - dogimage2.jpg
     - logo1.png
   - components/
-    - Breeds.jsx
-    - DogCard.jsx
-    - Favorites.jsx
-    - Footer.jsx
-    - Login.jsx
-    - Nav.jsx
-    - Pagination.jsx
-    - Search.jsx
-    - SearchResults.jsx
+    - Breeds.tsx
+    - DogCard.tsx
+    - Favorites.tsx
+    - Footer.tsx
+    - Login.tsx
+    - Nav.tsx
+    - Pagination.tsx
+    - Search.tsx
+    - SearchResults.tsx
   - styles/
     - breeds.css
     - dog-card.css
@@ -98,11 +98,11 @@ To run this project locally, follow these steps:
   - tests/
     - testDogAPI.ts
   - utils/
-    - dogAPIUtil.jsx
-    - fetchBreeds.jsx
-  - App.jsx
+    - dogAPIUtil.ts
+    - fetchBreeds.ts
+  - App.tsx
   - index.css
-  - main.jsx
+  - main.tsx
   - vite-env.d.ts
 - .eslintrc.cjs
 - .gitignore
